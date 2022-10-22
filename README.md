@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, financial APIs
 - 💬 Ask me about anything
 - 📫 How to reach me: dytra.io@icloud.com
-- 😄 Pronouns: potato
+- 😄 Pronouns: potato hunter
 - ⚡ Fun fact: i love bubble gum ice cream
 
 ![dytra's stats](https://github-readme-stats.vercel.app/api?username=dytra&count_private=true&show_icons=true&theme=radical&)
