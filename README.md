@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on perona.id
-- 🌱 I’m currently learning Python, financial APIs
+- 🌱 I’m currently learning Webflow & openAI
 - 💬 Ask me about anything
 - 📫 How to reach me: dytra.io@icloud.com
 - 😄 Pronouns: potato hunter
