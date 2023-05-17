@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on perona.id
-- 🌱 I’m currently learning Webflow & openAI
+- 🌱 I’m currently learning Webflow & Shopify
 - 💬 Ask me about anything
 - 📫 How to reach me: dytra.io@icloud.com
 - 👨‍💻 My Projects:
