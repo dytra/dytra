@@ -7,7 +7,6 @@
 - 👨‍💻 My Projects:
   - [perona.id](https://perona.id)
   - [socialbiogen.com](https://socialbiogen.com)
-  - [acakin.com](https://acakin.vercel.app)
   - [kalkulatorinvestasi.com](https://kalkulatorinvestasi.com)
 
 ![dytra's stats](https://github-readme-stats.vercel.app/api?username=dytra&count_private=true&show_icons=true&theme=radical&)
