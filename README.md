@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Webflow & Shopify
+- 🌱 I’m currently learning Wordpress Development
 - 💬 Ask me about anything
 - 📫 How to reach me: dytra.io@icloud.com
 - 👨‍💻 My Projects:
