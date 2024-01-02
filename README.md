@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Wordpress Development & LUA
+- 🌱 I’m currently learning Wordpress Development & Lua
 - 💬 Ask me about anything
 - 📫 How to reach me: dytra.io@icloud.com
 - 👨‍💻 My Projects:
